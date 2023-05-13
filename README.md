@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HandfulOfPinecones
 - 👀 I’m interested in coding as a hobby  
-- 🌱 I’m currently learning python, SQL, and C++
+- 🌱 I’m currently learning python, SQL, and DevOps
 
 <!---
 HandfulOfPinecones/HandfulOfPinecones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
